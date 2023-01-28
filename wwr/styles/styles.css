@@ -1,0 +1,37 @@
+h1, h2, h3, h4, h5, h6 {
+    color:#396E94
+ }
+#content {
+    max: width 1600px;
+    margin: 0 aut0
+ } 
+.button-box {
+    text-align: center;
+ }
+body {
+    background-color: #8e9439;
+ }
+ header {
+    background-color:rgba(20,30,13, .7);
+ }
+ nav a: :hover{
+    background-color: black;
+    color: #E7C24F
+ }
+#background {
+    height: 725;
+ }
+.icon {
+    width: 80px;
+ }
+ nav a {
+    text-align: center;
+    color: #fbfcfb;
+    text-decoration: none;
+ }   
+ footer p {
+    font-size: 1.2em;
+ }  
+ footer p a:hover {
+    text-decoration: underline;
+}    
